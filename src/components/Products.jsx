@@ -8,7 +8,7 @@ function Products() {
 			description:
 				"Arqu Excutive and its employees continerw afsddk jfi custnosdfk falk that ",
 			live: true,
-			cases: false,
+			cases: true,
 		},
 		{
 			title: "TTR",
@@ -72,3 +72,4 @@ function Products() {
 }
 
 export default Products;
+
